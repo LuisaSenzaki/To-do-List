@@ -2,10 +2,11 @@
   body {
     background: none;
     background-color: #be6cff;
+    justify-content: center;
   }
 
   .formulario {
-    width: 250px;
+    width: 300px;
   }
   .titulo {
     font-size: 8px;
@@ -27,5 +28,4 @@
     font-size: 15px;
     margin-right: 2px;
   }
-  
 }
